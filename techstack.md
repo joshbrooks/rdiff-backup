@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 joshbrooks/rdiff-backup is built on the following main stack:
+
 - [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - [Ruby](https://www.ruby-lang.org) – Languages
@@ -16,11 +17,13 @@ joshbrooks/rdiff-backup is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 joshbrooks/rdiff-backup is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
@@ -35,14 +38,15 @@ joshbrooks/rdiff-backup is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [joshbrooks/rdiff-backup](https://github.com/joshbrooks/rdiff-backup)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|11/09/23 <br/>Report generated|
+|28<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -208,18 +212,21 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (7)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (10)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (6)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[coverage](https://pypi.org/coverage)|N/A|10/29/22|Eric L |Apache-2.0|N/A|
-|[importlib-metadata](https://pypi.org/importlib-metadata)|N/A|09/07/22|Eric L |Apache-2.0|N/A|
-|[psutil](https://pypi.org/psutil)|N/A|10/29/22|Eric L |BSD-3-Clause|N/A|
-|[setuptools-scm](https://pypi.org/setuptools-scm)|N/A|09/23/22|Eric L |MIT|N/A|
-|[twine](https://pypi.org/twine)|N/A|09/23/22|Eric L |Apache-2.0|N/A|
-|[wheel](https://pypi.org/wheel)|N/A|09/23/22|Eric L |MIT|N/A|
+|[PyYAML](https://pypi.org/project/PyYAML)|N/A|10/16/20|Eric L |MIT|N/A|
+|[coverage](https://pypi.org/project/coverage)|N/A|10/29/22|Eric L |Apache-2.0|N/A|
+|[importlib-metadata](https://pypi.org/project/importlib-metadata)|N/A|09/07/22|Eric L |Apache-2.0|N/A|
+|[psutil](https://pypi.org/project/psutil)|N/A|10/29/22|Eric L |BSD-3-Clause|N/A|
+|[setuptools](https://pypi.org/project/setuptools)|N/A|09/23/22|Eric L |MIT|N/A|
+|[setuptools-scm](https://pypi.org/project/setuptools-scm)|N/A|09/23/22|Eric L |MIT|N/A|
+|[tox](https://pypi.org/project/tox)|N/A|08/11/20|Eric L |MIT|N/A|
+|[twine](https://pypi.org/project/twine)|N/A|09/23/22|Eric L |Apache-2.0|N/A|
+|[wheel](https://pypi.org/project/wheel)|N/A|09/23/22|Eric L |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (1)
@@ -231,4 +238,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
